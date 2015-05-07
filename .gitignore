@@ -1,0 +1,8 @@
+*.pyc
+NetPostPay/
+UnifiedPayments/
+mail.local.conf
+To Do.txt
+npp-*
+payarena-*
+refresh-logs.sh

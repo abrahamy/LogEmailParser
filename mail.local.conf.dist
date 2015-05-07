@@ -1,0 +1,6 @@
+[Server]
+HostName = imap.gmail.com
+
+[Account]
+Username = me@example.com
+Password = super-secret-password
